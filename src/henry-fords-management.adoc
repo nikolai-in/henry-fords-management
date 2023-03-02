@@ -1,5 +1,5 @@
 = Управление персоналом в компании Генри Форда
-Иванов Николай Николаевич <nikolai.in@tuta.io>; Рыжов Виталий Юрьевич <1145447@edu.rut-miit.ru>;
+Иванов Николай Николаевич <nikolai.in@tuta.io>; Рыжов Виталий Юрьевич <ryzhoffvitaly@yandex.ru>;
 include::locale/attributes-ru.adoc[]
 
 :sectanchors:
